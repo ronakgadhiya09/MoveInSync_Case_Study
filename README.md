@@ -5,6 +5,10 @@
 ## Overview
 This project is a meeting room booking system designed to optimize room allocation based on capacity, availability, and proximity. It provides features for managing meeting rooms, handling bookings, recommending the best rooms, and dynamically updating suggestions as bookings occur. The system includes an interactive console-based user interface for ease of use.
 
+##Here is UML Diagram for
+
+![Screenshot 2024-08-06 221102](https://github.com/user-attachments/assets/9e43788e-af89-4e1d-a273-d010ca365f80)
+
 ## Features
 
 ### Meeting Room Management
