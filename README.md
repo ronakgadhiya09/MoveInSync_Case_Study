@@ -1,5 +1,3 @@
-# MoveInSync_Case_Study
-
 # Meeting Room Booking System
 
 ## Overview
